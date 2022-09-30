@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Filipe
 - 👀 I’m interested in coding, science and education
-- 🌱 I’m currently learning PHP and databank
+- 🌱 I’m currently learning PHP and Java
 .
 
 <!---
