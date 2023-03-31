@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Filipe
 - 👀 I’m interested in high scientific computing
-- 🌱 I’m currently learning Python and C
+- 🌱 I’m currently learning scientific languages such as Python and C
 .
 
 <!---
